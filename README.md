@@ -1,2 +1,3 @@
 # GDV2_Abgabe
-Abgabe GDV2
+
+Unter "GDV2_Abgabe -> projects" finden Sie die Solution zur Abgabe.
