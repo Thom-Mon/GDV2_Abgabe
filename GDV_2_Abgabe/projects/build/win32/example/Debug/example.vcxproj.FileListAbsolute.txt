@@ -1,0 +1,8 @@
+C:\Users\Flodi\Desktop\gdv_vs2019\projects\build\win32\example\Debug\example_debug.exe
+C:\Users\Flodi\Desktop\gdv_vs2019\projects\build\win32\example\Debug\example_debug.pdb
+C:\Users\Flodi\Desktop\gdv_vs2019_Testcentre\projects\build\win32\example\Debug\example_debug.exe
+C:\Users\Flodi\Desktop\gdv_vs2019_Testcentre\projects\build\win32\example\Debug\example_debug.pdb
+C:\Users\Flodi\Desktop\gdv_vs2019_Roman\projects\build\win32\example\Debug\example_debug.exe
+C:\Users\Flodi\Desktop\gdv_vs2019_Roman\projects\build\win32\example\Debug\example_debug.pdb
+C:\Users\Flodi\Desktop\GDV_2_Abgabe\projects\build\win32\example\Debug\example_debug.exe
+C:\Users\Flodi\Desktop\GDV_2_Abgabe\projects\build\win32\example\Debug\example_debug.pdb
